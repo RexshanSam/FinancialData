@@ -1,0 +1,49 @@
+# Maven
+mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE - VSCode
+.vscode/
+
+# IDE - Eclipse
+.settings/
+.project
+.classpath
+
+# IDE - IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+application-local.properties
+application-dev.properties
+
+# Other
+.DS_Store
+*.swp
+*~
+
+# Test coverage
+jacoco.exec
+jacoco-it.exec
+
+# Temporary files
+tmp/
+temp/
+.claude
